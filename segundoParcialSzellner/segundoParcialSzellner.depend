@@ -1,0 +1,119 @@
+# depslib dependency file v1.0
+1625661391 source:c:\users\usuario\desktop\segundoparcialszellner\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625576380 c:\users\usuario\desktop\segundoparcialszellner\linkedlist.h
+
+1625663893 source:c:\users\usuario\desktop\segundoparcialszellner\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"paises.h"
+	"LinkedList.h"
+	"validacion.h"
+	"controller.h"
+
+1625332888 source:c:\users\usuario\desktop\segundoparcialszellner\validacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validacion.h"
+
+1625332888 c:\users\usuario\desktop\segundoparcialszellner\validacion.h
+
+1625664643 source:c:\users\usuario\desktop\segundoparcialszellner\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"controller.h"
+	"paises.h"
+	"parser.h"
+
+1625661728 c:\users\usuario\desktop\segundoparcialszellner\controller.h
+	"paises.h"
+
+1625663565 c:\users\usuario\desktop\segundoparcialszellner\paises.h
+	"LinkedList.h"
+
+1625266571 c:\users\usuario\desktop\segundoparcialszellner\parser.h
+
+1625664643 source:c:\users\usuario\desktop\segundoparcialszellner\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"paises.h"
+	"parser.h"
+
+1625664565 source:c:\users\usuario\desktop\segundoparcialszellner\paises.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"paises.h"
+	"LinkedList.h"
+
+1625664643 source:c:\users\usuario\desktop\szellner.franciscosplab\segundoparcialszellner\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"controller.h"
+	"paises.h"
+	"parser.h"
+
+1625576380 c:\users\usuario\desktop\szellner.franciscosplab\segundoparcialszellner\linkedlist.h
+
+1625661728 c:\users\usuario\desktop\szellner.franciscosplab\segundoparcialszellner\controller.h
+	"paises.h"
+
+1625663565 c:\users\usuario\desktop\szellner.franciscosplab\segundoparcialszellner\paises.h
+	"LinkedList.h"
+
+1625266571 c:\users\usuario\desktop\szellner.franciscosplab\segundoparcialszellner\parser.h
+
+1625661391 source:c:\users\usuario\desktop\szellner.franciscosplab\segundoparcialszellner\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625663893 source:c:\users\usuario\desktop\szellner.franciscosplab\segundoparcialszellner\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"paises.h"
+	"LinkedList.h"
+	"validacion.h"
+	"controller.h"
+
+1625332888 c:\users\usuario\desktop\szellner.franciscosplab\segundoparcialszellner\validacion.h
+
+1625664565 source:c:\users\usuario\desktop\szellner.franciscosplab\segundoparcialszellner\paises.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"paises.h"
+	"LinkedList.h"
+
+1625664643 source:c:\users\usuario\desktop\szellner.franciscosplab\segundoparcialszellner\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"paises.h"
+	"parser.h"
+
+1625332888 source:c:\users\usuario\desktop\szellner.franciscosplab\segundoparcialszellner\validacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validacion.h"
+
